@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anshika, a first-year B.Tech student passionate about exploring the vast world of technology.
-- 🚀 Currently pursuing my degree in Information Technology at National Insitute of Technology Kurukshetra.
+- 🚀 Currently pursuing my degree in Information Technology at National Institute of Technology Kurukshetra.
 - 👀 I'm enthusiastic about diving into the exciting realms of software development and engineering.
 - 🌱 I’m currently learning
   1. Programming languages: C , Python
