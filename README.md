@@ -10,6 +10,6 @@
   3. Internship opportunities in software development
 - 📫 Let's Connect
   1. LinkedIN: https://www.linkedin.com/in/anshika-yadav-9002b8199
-  2. Email: anshi449944@gmail.com
+  2. Email: anshi040904@gmail.com
   
 Feel free to explore my repositories and reach out if you share similar interests or if you have any exciting opportunities to discuss. Let's code and innovate together! 🚀
