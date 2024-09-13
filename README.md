@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Anshika, a first-year B.Tech student passionate about exploring the vast world of technology.
+- 👋 Hi, I’m Anshika, a second-year B.Tech student passionate about exploring the vast world of technology.
 - 🚀 Currently pursuing my degree in Information Technology at National Institute of Technology Kurukshetra.
 - 👀 I'm enthusiastic about diving into the exciting realms of software development and engineering.
 - 🌱 I’m currently learning
-  1. Programming languages: C , Python
-  2. Web development: HTML, CSS, JavaScript
+  1. Programming languages: C, C++ , Python, Java
+  2. Web development: HTML, CSS, JavaScript, React.js, Node.js
 - 💞️ I’m looking to collaborate on
   1. Opportunities to collaborate on interesting projects
   2. Learning and networking with fellow tech enthusiasts
