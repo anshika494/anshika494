@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anshika, a second-year B.Tech student passionate about exploring the vast world of technology.
+- 👋 Hi, I’m Anshika, a third-year B.Tech student passionate about exploring the vast world of technology.
 - 🚀 Currently pursuing my degree in Information Technology at National Institute of Technology Kurukshetra.
 - 👀 I'm enthusiastic about diving into the exciting realms of software development and engineering.
 - 🌱 I’m currently learning
